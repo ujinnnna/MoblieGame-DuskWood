@@ -1,7 +1,8 @@
 # Project: DuskWood
+
 ---
 
-##  Prologue
+## Prologue
 
 > **"영속의 황혼 숲, DuskWood"**
 >
@@ -14,22 +15,28 @@
 
 <br>
 
-| **Category** | **Details** |
+| Category | Details |
 | :--- | :--- |
 | **Development Period** | 2025.09.16 ~ 개발 중 |
 | **Team Composition** | 1인 개발 |
 | **Platform** | Mobile (Android / iOS) |
-| **Genre** | 3D Action RPG | 
+| **Genre** | 3D Action RPG |
 
+<br>
 
+## Gameplay Preview
 
-##  Gameplay Preview
+###  Sword Combat
+<img src="Images/Sword.gif" width="650">
 
+<br>
+
+###  Staff Combat
+<img src="Images/Staff.gif" width="650">
 
 ---
 
-
-##  Tech Stack
+## Tech Stack
 
 * **Engine:** Unity 6.0 LTS (URP)
 * **Language:** C#
